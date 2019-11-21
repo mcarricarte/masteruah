@@ -15,3 +15,12 @@
 + *git commit -m*: Este comando genera un commit de git 
 + *git push origin master*: Sube los cambios al repositorio remoto 
 
+
+## **Compañeros de clase** 
+
+|  **NOMBRE**   |  **GITHUB**   |
+| ------------- | ------------- |
+| Jaime         | [Jaime95] (https://github.com/Jaime95/masteruah.git)      |
+| Miguel        | [MiguelJG] (https://github.com/MiguelJG/masteruah.git)     |
+| Zeng          | [Zengyong96^] (https://github.com/zengyong96/masteruah.git)   |
+
